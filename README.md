@@ -11,6 +11,6 @@
 # Exit the demo:
 `exit`
 
-# Example queries are provided in queries.txt.
+Example queries are provided in queries.txt.
 
-# We currently provide the demo code and a small indexed corpus (635 PubMed abstracts, 6755 sentences) for testing. The full code including index building will be added later. 
+We currently provide the demo code and a small indexed corpus (635 PubMed abstracts, 6755 sentences) for testing. The full code including index building will be added later. 
