@@ -1,0 +1,14 @@
+dbp; renal fibrosis
+anit; bile duct injury
+pioglitazone; skm injury
+obesity; tbt
+non alcoholic steatohepatitis; irinotecan
+tcdd; il 1b
+
+protocatechuic acid methyl ester; fluoride; lung toxicity
+bpa; nrf2; srebp 1c
+glycyrrhizin; glycyrrhetinic acid; liver damage
+
+arsenic; $DISEASE
+
+
