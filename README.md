@@ -1,9 +1,5 @@
 # Requirements
 * Python 3.7.0
-* Python packages: pickel
-
-# Install python packages:
-`pip3 install pickel`
 
 # Run the demo:
 `python3 demo.py`
